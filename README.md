@@ -1,14 +1,18 @@
 # Audits
 
-Blockchain security researcher,
+Blockchain security researcher and smart contract auditor
 
 ladboy233 in Code4rena
 
 ctf_sec in sherlock, senior watson
 
-bounty hunter in immunefi
+bounty hunter in Immunefi
 
-https://twitter.com/Xc1008Cui
+Book a private auditing and reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
+
+Or ladboy233#0859 from discord, my DM are open!
+
+Bounty based auditing model is adopted, the clients only pay for the results they receive and not for the time it takes me to find them.
 
 ## Public Audit Contests
 

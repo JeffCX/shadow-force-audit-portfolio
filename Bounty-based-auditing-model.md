@@ -13,3 +13,7 @@ My payment policies are designed to reflect my commitment to delivering results.
 ## Conclusion:
 
 I provide a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. Contact me today to learn more about my services and to schedule an audit of your system.
+
+Book a private auditing and reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
+
+Or ladboy233#0859 from discord, my DM are open!
