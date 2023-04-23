@@ -1,3 +1,7 @@
+## Please Book smart contract auditing by filling this form
+
+https://t.co/4dlhII2xNk
+
 ## Web3: land of opportunity and risk
 
 The field of web3 holds great promise, providing numerous opportunities for users to reclaim ownership of their assets and data. However, it is imperative to address the security challenges that come with it. We have seen several high-profile hacks that have impacted the web3 ecosystem, including the Robinhood bridge hack, which resulted in a loss of $6 billion, the Wormhole cross-chain bridge hack, which cost $3 billion, and various other security breaches that have forced protocol shutdowns. These hacks not only render crypto projects financially incapable of operating, but they also severely damage user trust in the system.
@@ -26,7 +30,9 @@ I provide a unique and effective approach to auditing services. By charging base
 
 Contact me today to learn more about my services and to schedule an audit of your system.
 
-Book a private auditing and reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
+Book a private auditing by filling the form https://t.co/4dlhII2xNk 
+
+or reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
 
 Or ladboy233#0859 from discord, my DM are open!
 
@@ -59,13 +65,16 @@ Or ladboy233#0859 from discord, my DM are open!
 3. What is the code coverage percentage?
 4. Are there any protocols that are similar to yours, which are they?
 5. Have you had any audits so far, are you planning to do other audits/security programs as well?
-6. Threat Model interview
+6. Which chain the protocol will be deployed on?
+7. What kind of token the protocol is expected to support?
+8. Is the admin role privilege consider as trusted or restricted?
+9. Is the code/contract expected to comply with any EIPs?
 
 Based on the answers we can discuss the effort needed, the payment amount and the timeline.
 
 ## Security review result & fixes review
 
-After the time agreed upon has passed, the project will receive the security review report. The project has 7 days to apply fixes on issues found. Each issues should be fixed in a separate commit that has a message pointing to the issue being fixed. Then, a single iteration of a "fixes review" will be executed by me, free of additional charges, to verify your fixes are correct and secure.
+After the time agreed upon has passed, the project will receive the security review report. The project has 21 days to apply fixes on issues found. Each issues should be fixed in a separate commit that has a message pointing to the issue being fixed. Then, a single iteration of a "fixes review" will be executed by me, free of additional charges, to verify your fixes are correct and secure.
 
 ### Important notes for the fixes review
 
