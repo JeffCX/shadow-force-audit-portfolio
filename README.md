@@ -6,15 +6,15 @@ https://t.co/4dlhII2xNk
 
 The field of web3 holds great promise, providing numerous opportunities for users to reclaim ownership of their assets and data. However, it is imperative to address the security challenges that come with it. We have seen several high-profile hacks that have impacted the web3 ecosystem, including the Robinhood bridge hack, which resulted in a loss of $6 billion, the Wormhole cross-chain bridge hack, which cost $3 billion, and various other security breaches that have forced protocol shutdowns. These hacks not only render crypto projects financially incapable of operating, but they also severely damage user trust in the system.
 
-To illustrate the significance of the security risks, this year, Euler Finance, a lending protocol, suffered a $2 billion hack and is still struggling to recover the lost funds. These incidents underscore the need for robust security measures in web3. The potential financial losses and damage to user trust from these security breaches cannot be overstated. Therefore, it is crucial to engage the services of experienced professionals like Jeff, who can secure your smart contract and prevent such incidents from occurring.
+To illustrate the significance of the security risks, this year, Euler Finance, a lending protocol, suffered a $2 billion hack and is still struggling to recover the lost funds. These incidents underscore the need for robust security measures in web3. The potential financial losses and damage to user trust from these security breaches cannot be overstated. Therefore, it is crucial to engage the services of experienced professionals, who can secure your smart contract and prevent such incidents from occurring.
 
 ## Auditing
 
-By taking a proactive approach to security, you can establish a strong foundation for your web3 project and ensure its long-term success. Jeff is a blockchain security researcher and smart contract auditor whose expertise has been tested in securing some of the largest web3 protocols, such as The Graph and the Optimism Layer 2 blockchain. Jeff is a respected security researcher and a white-hat hacker in [Immunefi](https://immunefi.com/), as well as a senior auditor in [Sherlock](https://app.sherlock.xyz/audits/leaderboard), an auditing and DeFi insurance platform. Jeff's services use a bug bounty-based model, which means you only pay for bugs that are found, not the time it takes to find them. This approach incentivizes auditors to find as many bugs as possible, ensuring that the code is secure before it goes live.
+By taking a proactive approach to security, you can establish a strong foundation for your web3 project and ensure its long-term success. Shadow Force Auditing is a group of  a blockchain security researcher and smart contract auditor whose expertise has been tested in securing some of the largest web3 protocols, such as The Graph and the Optimism Layer 2 blockchain. Shadow Force Auditing is a group of  a respected security researcher lead by Jeff, a white-hat hacker in [Immunefi](https://immunefi.com/), as well as a senior auditor in [Sherlock](https://app.sherlock.xyz/audits/leaderboard), an auditing and DeFi insurance platform. The auditing services use a bug bounty-based model, which means you only pay for bugs that are found, not the time it takes to find them. This approach incentivizes auditors to find as many bugs as possible, ensuring that the code is secure before it goes live.
 
 ## Introduction:
 
-My private smart contract security auditing offers a unique approach to projects that differs from traditional methods. Price is charged based on the number of bugs found in the codebase, rather than an hourly or fixed rate. This means that the clients only pay for the results they receive and not for the time it takes me to find them. In this document, I will outline my process for determining pricing, and payment policies.
+Shadow force smart contract security auditing offers a unique approach to projects that differs from traditional methods. Price is charged based on the number of bugs found in the codebase, rather than an hourly or fixed rate. This means that the clients only pay for the results they receive and not for the time it takes me to find them. In this document, I will outline my process for determining pricing, and payment policies.
 
 ## Pricing:
 
@@ -24,11 +24,11 @@ Transparency and fairness are important, which is why I provide a clear breakdow
 
 My payment policies are designed to reflect my commitment to delivering results. Clients will only pay for the bugs found and nothing more. There is no lower limit, and my upper limit payment ensures that clients are not charged exorbitant fees, even if a large number of bugs are found.
 
-## About me:
+## About us:
 
-I provide a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. I have audited some of the big protocol in the space, such as the graph protocol and optimism. My mission to secure the smart contract and eliminates bugs before it hits the production.
+Shadow Force Auditing provides a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. I have audited some of the big protocol in the space, such as the graph protocol and optimism. My mission to secure the smart contract and eliminates bugs before it hits the production.
 
-Contact me today to learn more about my services and to schedule an audit of your system.
+Contact us today to learn more about my services and to schedule an audit of your system.
 
 Book a private auditing by filling the form https://t.co/4dlhII2xNk 
 
@@ -36,7 +36,7 @@ or reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
 
 Or ladboy233#0859 from discord, my DM are open!
 
-## Public Audit Contests in my portfolio
+## Public Audit Contests Portfolio
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
@@ -74,7 +74,7 @@ Based on the answers we can discuss the effort needed, the payment amount and th
 
 ## Security review result & fixes review
 
-After the time agreed upon has passed, the project will receive the security review report. The project has 21 days to apply fixes on issues found. Each issues should be fixed in a separate commit that has a message pointing to the issue being fixed. Then, a single iteration of a "fixes review" will be executed by me, free of additional charges, to verify your fixes are correct and secure.
+After the time agreed upon has passed, the project will receive the security review report. The project has 14 days to apply fixes on issues found. Each issues should be fixed in a separate commit that has a message pointing to the issue being fixed. Then, a single iteration of a "fixes review" will be executed by me, free of additional charges, to verify your fixes are correct and secure.
 
 ### Important notes for the fixes review
 
