@@ -26,27 +26,33 @@ My payment policies are designed to reflect my commitment to delivering results.
 
 # Detailed Pricing Formula
 
-Price Per Bug = (nSLOC / 100) * Base Price * Severity Multiplier * Discount Multiplier
+The formula for Price Per Bug is: (nSLOC / 100) * Base Price * Severity Multiplier * Discount Multiplier, where
 
-Base Price = (nSLOC * 0.1)
+Base Price = (nSLOC * 0.1),
 
-Severity Multiplier = Low: 0.5, Medium: 1, High: 2, Critical: 3
+Severity Multiplier is based on the severity of the bug: Low: 0.5, Medium: 1, High: 2, Critical: 4, and
 
-Discount Multiplier = 1 for no discount, 0.9 for 10% discount, 0.8 for 20% discount, etc.
+Discount Multiplier is 1 for no discount, 0.9 for 10% discount, 0.8 for 20% discount, etc.
 
-Assume the discount multipler is 1 (regular price, no discount)
+For example, if a project has 1100 lines of code, the base price would be 1100 * 0.1 = 110.
 
-For example, if a project has 1100 lines of code, then base price = 1100 * 0.1 = 110
+For each low severity bug found, we charge 1100 / 100 * 110 * 0.5 = 605 USD.
 
-for each low severity bug we found, we charge 1100 / 100 * 110 * 0.5 = 605 USD
+For each medium severity bug found, we charge 1100 / 100 * 110 * 1 = 1210 USD.
 
-for each medium severity bug we found, we charge 1100 / 100 * 110 * 1 = 1210 USD
+For each high severity bug found, we charge 1100 / 100 * 110 * 2 = 2420 USD.
 
-for each high severity bug we found, we charge 1100 / 100 * 110 * 2 = 2420 USD
+For each critical severity bug found, we charge 1100 / 100 * 110 * 4 = 4840 USD.
 
-for each critical severity bug we found, we charge 1100 / 100 * 110 * 3 = 3630 USD
+If no bugs are found, there will be no charge.
 
-no bug found, we charge 0.
+Shadow force auditing will determine the severity of each bug and confirm with the development team.
+
+The auditing team has the authority to determine the severity of each finding objectively and fairly.
+
+The pricing model incentivizes auditors to find genuine bugs that could potentially harm the protocol and its users, and to get paid fairly for their work.
+
+Moreover, this pricing model encourages developers to write safe and bug-free code.
 
 ## About us:
 
