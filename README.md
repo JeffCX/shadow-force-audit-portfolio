@@ -22,7 +22,31 @@ My pricing is based on the complexity of the protocol and the number of lines of
 
 Transparency and fairness are important, which is why I provide a clear breakdown of the cost associated with each type of bug found during the audit. This approach ensures that my clients only pay for the value they receive and have a clear understanding of the cost associated with my services.
 
-My payment policies are designed to reflect my commitment to delivering results. Clients will only pay for the bugs found and nothing more. There is no lower limit, and my upper limit payment ensures that clients are not charged exorbitant fees, even if a large number of bugs are found.
+My payment policies are designed to reflect my commitment to delivering results. Clients will only pay for the bugs found and nothing more. There is no lower limit, and my upper limit payment ensures that clients are not charged exorbitant fees, even if a large number of bugs are found
+
+# Detailed Pricing Formula
+
+Price Per Bug = (nSLOC / 100) * Base Price * Severity Multiplier * Discount Multiplier
+
+Base Price = (nSLOC * 0.1)
+
+Severity Multiplier = Low: 0.5, Medium: 1, High: 2, Critical: 3
+
+Discount Multiplier = 1 for no discount, 0.9 for 10% discount, 0.8 for 20% discount, etc.
+
+Assume the discount multipler is 1 (regular price, no discount)
+
+For example, if a project has 1100 lines of code, then base price = 1100 * 0.1 = 110
+
+for each low severity bug we found, we charge 1100 / 100 * 110 * 0.5 = 605 USD
+
+for each medium severity bug we found, we charge 1100 / 100 * 110 * 1 = 1210 USD
+
+for each high severity bug we found, we charge 1100 / 100 * 110 * 2 = 2420 USD
+
+for each critical severity bug we found, we charge 1100 / 100 * 110 * 3 = 3630 USD
+
+no bug found, we charge 0.
 
 ## About us:
 
