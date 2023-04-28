@@ -34,6 +34,8 @@ Severity Multiplier is based on the severity of the bug: Low: 0.5, Medium: 1, Hi
 
 Discount Multiplier is 1 for no discount, 0.9 for 10% discount, 0.8 for 20% discount, etc.
 
+Discount Multipler is offered to small project with limited budget or offered to partners.
+
 For example, if a project has 1100 lines of code, the base price would be 1100 * 0.1 = 110.
 
 For each low severity bug found, we charge 1100 / 100 * 110 * 0.5 = 605 USD.
