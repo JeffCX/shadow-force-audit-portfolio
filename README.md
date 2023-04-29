@@ -1,4 +1,4 @@
-## Please Book smart contract auditing by filling this form
+## Please Book smart contract audits by filling out this form
 
 https://t.co/4dlhII2xNk
 
@@ -10,7 +10,7 @@ To illustrate the significance of the security risks, this year, Euler Finance, 
 
 ## Auditing
 
-By taking a proactive approach to security, you can establish a strong foundation for your web3 project and ensure its long-term success. Shadow Force Auditing is a group of  a blockchain security researcher and smart contract auditor whose expertise has been tested in securing some of the largest web3 protocols, such as The Graph and the Optimism Layer 2 blockchain. Shadow Force Auditing is a group of  a respected security researcher lead by Jeff, a white-hat hacker in [Immunefi](https://immunefi.com/), as well as a senior auditor in [Sherlock](https://app.sherlock.xyz/audits/leaderboard), an auditing and DeFi insurance platform. The auditing services use a bug bounty-based model, which means you only pay for bugs that are found, not the time it takes to find them. This approach incentivizes auditors to find as many bugs as possible, ensuring that the code is secure before it goes live.
+By taking a proactive approach to security, you can establish a strong foundation for your web3 project and ensure its long-term success. Shadow Force Auditing is a group of  a blockchain security researchers and smart contract auditors whose expertise has been tested in securing some of the largest web3 protocols, such as The Graph and the Optimism Layer 2 blockchain. Shadow Force Auditing is a group of respected security researchers lead by Jeff, a white-hat hacker in [Immunefi](https://immunefi.com/), as well as a senior auditor in [Sherlock](https://app.sherlock.xyz/audits/leaderboard), an auditing and DeFi insurance platform. The auditing services use a bug bounty-based model, which means you only pay for bugs that are found, not the time it takes to find them. This approach incentivizes auditors to find as many bugs as possible, ensuring that the code is secure before it goes live.
 
 ## Introduction:
 
@@ -34,7 +34,7 @@ Severity Multiplier is based on the severity of the bug: Low: 0.5, Medium: 1, Hi
 
 Discount Multiplier is 1 for no discount, 0.9 for 10% discount, 0.8 for 20% discount, etc.
 
-Discount Multipler is offered to small project with limited budget or offered to partners.
+Discount Multipler is offered to small projects with limited budget or to partners.
 
 For example, if a project has 1100 lines of code, the base price would be 1100 * 0.1 = 110.
 
@@ -58,17 +58,17 @@ Moreover, this pricing model encourages developers to write safe and bug-free co
 
 ## About us:
 
-Shadow Force Auditing provides a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. I have audited some of the big protocol in the space, such as the graph protocol and optimism. My mission to secure the smart contract and eliminates bugs before it hits the production.
+Shadow Force Auditing provides a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. I have audited some of the big protocols in the space, such as the graph protocol and optimism. My mission to secure smart contracts and eliminate bugs before they hit production.
 
 Contact us today to learn more about my services and to schedule an audit of your system.
 
-Book a private auditing by filling the form https://t.co/4dlhII2xNk 
+Book a private audit by filling out this form https://t.co/4dlhII2xNk 
 
 or reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
 
 Or ladboy233#0859 from discord, my DM are open!
 
-## Public Audit Contests Portfolio
+## Public Audit Contest Portfolio
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
@@ -102,11 +102,11 @@ Or ladboy233#0859 from discord, my DM are open!
 8. Is the admin role privilege consider as trusted or restricted?
 9. Is the code/contract expected to comply with any EIPs?
 
-Based on the answers we can discuss the effort needed, the payment amount and the timeline.
+Based on the answers we can discuss the effort needed, the payment amount, and the timeline.
 
 ## Security review result & fixes review
 
-After the time agreed upon has passed, the project will receive the security review report. The project has 14 days to apply fixes on issues found. Each issues should be fixed in a separate commit that has a message pointing to the issue being fixed. Then, a single iteration of a "fixes review" will be executed by me, free of additional charges, to verify your fixes are correct and secure.
+After the agreed upon time has passed, the project will receive the security review report. The project has 14 days to apply fixes on issues found. Each issues should be fixed in a separate commit that has a message pointing to the issue being fixed. Then, a single iteration of a "fixes review" will be executed by me, free of additional charges, to verify your fixes are correct and secure.
 
 ### Important notes for the fixes review
 
