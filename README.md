@@ -6,7 +6,7 @@ https://t.co/4dlhII2xNk
 
 The field of web3 holds great promise, providing numerous opportunities for users to reclaim ownership of their assets and data. However, it is imperative to address the security challenges that come with it. We have seen several high-profile hacks that have impacted the web3 ecosystem, including the Robinhood bridge hack, which resulted in a loss of $6 billion, the Wormhole cross-chain bridge hack, which cost $3 billion, and various other security breaches that have forced protocol shutdowns. These hacks not only render crypto projects financially incapable of operating, but they also severely damage user trust in the system.
 
-To illustrate the significance of the security risks, this year, Euler Finance, a lending protocol, suffered a $2 billion hack and is still struggling to recover the lost funds. These incidents underscore the need for robust security measures in web3. The potential financial losses and damage to user trust from these security breaches cannot be overstated. Therefore, it is crucial to engage the services of experienced professionals, who can secure your smart contract and prevent such incidents from occurring.
+To illustrate the significance of the security risks, this year, Euler Finance, a lending protocol, suffered a $200 million hack and is still struggling to recover the lost funds. These incidents underscore the need for robust security measures in web3. The potential financial losses and damage to user trust from these security breaches cannot be overstated. Therefore, it is crucial to engage the services of experienced professionals, who can secure your smart contract and prevent such incidents from occurring.
 
 ## Auditing
 
@@ -26,9 +26,15 @@ My payment policies are designed to reflect my commitment to delivering results.
 
 # Detailed Pricing Formula
 
-The formula for Price Per Bug is: (nSLOC / 100) * Base Price * Severity Multiplier * Discount Multiplier, where
+There an upper bound payment for protocol, the cost of the auditing will not exceed this number!
 
-Base Price = (nSLOC * 0.1),
+upper bound cost = (nSLOC * 50)
+
+For example, if a protocol has 1000 lines of code, the cost is at most 50K USD.
+
+The formula for Price Per Bug is: (nSLOC / 100) * Base Price * Severity Multiplier * Discount Multiplier, 
+
+where Base Price = (nSLOC * 0.1),
 
 Severity Multiplier is based on the severity of the bug: Low: 0.5, Medium: 1, High: 2, Critical: 4, and
 
