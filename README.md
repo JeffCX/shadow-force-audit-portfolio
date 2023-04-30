@@ -26,7 +26,7 @@ My payment policies are designed to reflect my commitment to delivering results.
 
 # Detailed Pricing Formula
 
-There an upper bound payment for protocol, the cost of the auditing will not exceed this number!
+There is an upper bound payment for the protocol, the cost of the audit will not exceed this number!
 
 upper bound cost = (nSLOC * 50)
 
