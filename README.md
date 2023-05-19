@@ -2,7 +2,7 @@
 
 https://t.co/4dlhII2xNk
 
-or free feel to schedule a meeting
+or feel free to schedule a meeting
 
 [calendly.com/crypto-jeff/30min](https://calendly.com/crypto-jeff/30min)
 
