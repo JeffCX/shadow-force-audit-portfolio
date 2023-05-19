@@ -2,6 +2,10 @@
 
 https://t.co/4dlhII2xNk
 
+or free feel to schedule a meeting
+
+[calendly.com/crypto-jeff/30min](https://calendly.com/crypto-jeff/30min)
+
 ## Web3: land of opportunity and risk
 
 The field of web3 holds great promise, providing numerous opportunities for users to reclaim ownership of their assets and data. However, it is imperative to address the security challenges that come with it. We have seen several high-profile hacks that have impacted the web3 ecosystem, including the Robinhood bridge hack, which resulted in a loss of $6 billion, the Wormhole cross-chain bridge hack, which cost $3 billion, and various other security breaches that have forced protocol shutdowns. These hacks not only render crypto projects financially incapable of operating, but they also severely damage user trust in the system.
