@@ -82,7 +82,8 @@ Or ladboy233#0859 from discord, my DM are open!
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
-| [Optimism](https://app.sherlock.xyz/audits/contests/38)                                         | February 2023 | Sherlock  | 12th  | [Link](https://app.sherlock.xyz/audits/contests/38)    | |
+| [Optimism bedrock fix](https://app.sherlock.xyz/audits/contests/38)                                         | March 2023 | Sherlock  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/63)    | |
+| [Optimism bedrock](https://app.sherlock.xyz/audits/contests/38)                                         | February 2023 | Sherlock  | 12th  | [Link](https://app.sherlock.xyz/audits/contests/38)    | |
 | [OpenQ](https://app.sherlock.xyz/audits/contests/39)                                      | February 2023  | Sherlock  | 5th    | [Link](https://app.sherlock.xyz/audits/contests/39)    |
 | [Ajna](https://app.sherlock.xyz/audits/contests/32)                                              | January 2023  | Sherlock  | 5th  | [Link](https://app.sherlock.xyz/audits/contests/32)    |
 | [UXD Protocol](https://app.sherlock.xyz/audits/contests/33)                                      | January 2023  | Sherlock  | 3rd    | [Link](https://app.sherlock.xyz/audits/contests/33)    |
