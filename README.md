@@ -4,7 +4,7 @@ https://t.co/4dlhII2xNk
 
 or feel free to schedule a meeting
 
-[calendly.com/crypto-jeff/30min](https://calendly.com/crypto-jeff/30min)
+https://calendly.com/crypto-jeff/30min
 
 ## Web3: land of opportunity and risk
 
