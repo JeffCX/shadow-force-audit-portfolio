@@ -1,10 +1,12 @@
 ## Please Book smart contract audits by filling out this form
 
-https://t.co/4dlhII2xNk
-
-or feel free to schedule a meeting
+Feel free to schedule a meeting
 
 https://calendly.com/crypto-jeff/30min
+
+and please fill out this google form
+
+https://t.co/4dlhII2xNk
 
 ## Web3: land of opportunity and risk
 
